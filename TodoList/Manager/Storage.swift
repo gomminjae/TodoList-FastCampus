@@ -50,7 +50,6 @@ public class Storage {
             print("---> Failed to store msg: \(error.localizedDescription)")
         }
     }
-    
     // TODO: 파일은 Data 타입형태로 읽을수 있음
     // TODO: Data 타입은 Codable decode 가능
     
